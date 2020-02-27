@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcherAppAndroid", "ArcherAppAndroid\ArcherAppAndroid.csproj", "{591CC930-FACB-443F-B3BC-3A53E114B2FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{591CC930-FACB-443F-B3BC-3A53E114B2FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591CC930-FACB-443F-B3BC-3A53E114B2FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591CC930-FACB-443F-B3BC-3A53E114B2FB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{591CC930-FACB-443F-B3BC-3A53E114B2FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591CC930-FACB-443F-B3BC-3A53E114B2FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{591CC930-FACB-443F-B3BC-3A53E114B2FB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56F259CF-AA78-47F9-A925-8B88A3C71E47}
+	EndGlobalSection
+EndGlobal
